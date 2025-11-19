@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSMS/Макросота.md",
+                "file": "OSMS/Модели распространения радиосигналов PL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Макросота"
+              "title": "Модели распространения радиосигналов PL"
             }
           },
           {
-            "id": "c0ea70f0c905701b",
+            "id": "0294bd68fb16b860",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "С/Преобразовние типов.md",
+                "file": "С/Циклы for, while.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Преобразовние типов"
+              "title": "Циклы for, while"
             }
           }
         ],
@@ -165,8 +165,19 @@
               "icon": "lucide-list",
               "title": "Outline of MM1"
             }
+          },
+          {
+            "id": "0e075904a45750aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,14 +192,27 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c0ea70f0c905701b",
+  "active": "0294bd68fb16b860",
   "lastOpenFiles": [
-    "С/Переполнение.md",
     "С/Преобразовние типов.md",
+    "С/Циклы for, while.md",
+    "Преобразование типов.md",
     "С/Этапы компиляции.md",
+    "OSMS/Модель Окумура-Хата и ее модификация COST231.md",
+    "OSMS/Модели распространения радиосигналов PL.md",
+    "OSMS/Макросота.md",
+    "OSMS/Корреляция.md",
+    "OSMS/Hz(Герц).md",
+    "OSMS/dB, dBm, dBi.md",
+    "беззнаковой.md",
+    "Преобразование.md",
+    "С/Переполнение.md",
     "С",
     "README.md",
     "RTS/Семафор.md",
@@ -196,29 +220,19 @@
     "RTS/Mutex.md",
     "MathDSP/Прямоугольный непереодический импульс.md",
     "RTS",
-    "OSMS/Модели распространения радиосигналов PL.md",
-    "OSMS/Модель Окумура-Хата и ее модификация COST231.md",
-    "OSMS/dB, dBm, dBi.md",
     "OSMS/assets/PL_indoor_UMiNLOS_FSMP.png",
     "MathDSP/assets/prymoygolniy_signal.png",
     "MathDSP/assets",
     "MathDSP/Свойство ортогональности сигналов.md",
-    "OSMS/Hz(Герц).md",
     "OSMS/Преобразование Фурье.md",
     "Visual Programming/Лямбда функия.md",
     "MathDSP",
     "Visual Programming/Callback.md",
     "Visual Programming/Android Client Server.md",
-    "OSMS/Корреляция.md",
     "Visual Programming/Untitled.md",
     "Visual Programming",
     "C++/Указатели в С++/Операции по работе с указателями.md",
     "C++/Это БАЗА/Из чего состоит программа.md",
-    "OSMS/Уравнения Максвелла.md",
-    "OSMS/Макросота.md",
-    "OSMS/LTE.md",
-    "OSMS/Понятие радиуса соты и потерь мощности сигнала.md",
-    "OSMS/Эмпирические модели.md",
     "OSMS/assets",
     "Untitled 1.canvas",
     "Untitled.canvas",
