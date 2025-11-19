@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "9759a3d5985d2047",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b26a2d9f9e2ad34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e483329992ea7e28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OSMS/Макросота.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Макросота"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e5ddad11a05ecba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "55b86d11c15ad988",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52409c948f2eef22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a82ed2964bf763be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f20be52b1c2a7965",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "404e2b808b6c7ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2a72a90ad21d231",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c022ab131f2edbfa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OSMS/Преобразование Фурье.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Преобразование Фурье"
+            }
+          },
+          {
+            "id": "8ae7262633f1d634",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TMO/TMO/SMO/MM1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from MM1"
+            }
+          },
+          {
+            "id": "6300758d1fb57eff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a64ebc18b43b54c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TMO/TMO/SMO/MM1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of MM1"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e483329992ea7e28",
+  "lastOpenFiles": [
+    "RTS/Семафор.md",
+    "RTS/Aтомарность.md",
+    "RTS/Mutex.md",
+    "MathDSP/Прямоугольный непереодический импульс.md",
+    "RTS",
+    "OSMS/Модели распространения радиосигналов PL.md",
+    "OSMS/Модель Окумура-Хата и ее модификация COST231.md",
+    "OSMS/dB, dBm, dBi.md",
+    "OSMS/assets/PL_indoor_UMiNLOS_FSMP.png",
+    "MathDSP/assets/prymoygolniy_signal.png",
+    "MathDSP/assets",
+    "MathDSP/Свойство ортогональности сигналов.md",
+    "OSMS/Hz(Герц).md",
+    "OSMS/Преобразование Фурье.md",
+    "Visual Programming/Лямбда функия.md",
+    "MathDSP",
+    "Visual Programming/Callback.md",
+    "Visual Programming/Android Client Server.md",
+    "OSMS/Корреляция.md",
+    "Visual Programming/Untitled.md",
+    "Visual Programming",
+    "C++/Указатели в С++/Операции по работе с указателями.md",
+    "C++/Это БАЗА/Из чего состоит программа.md",
+    "OSMS/Уравнения Максвелла.md",
+    "OSMS/Макросота.md",
+    "OSMS/LTE.md",
+    "OSMS/Понятие радиуса соты и потерь мощности сигнала.md",
+    "OSMS/Эмпирические модели.md",
+    "OSMS/assets",
+    "OSMS/Hz.md",
+    "TMO/Пусоновское прибытие.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "OSMS.md",
+    "OSMS",
+    "C++/Основные правила написания программ на С++/Использование коментариев.md",
+    "M/M",
+    "M",
+    "TMO/SMO",
+    "C++/Это БАЗА",
+    "C++/Screenshots/Pasted image 20240424205618.png",
+    "C++/Screenshots/Pasted image 20240424205618 1.png",
+    "C++/Screenshots/Pasted image 20240424205617.png",
+    "C++/Screenshots/Pasted image 20240424205617 2.png",
+    "C++/Screenshots/Pasted image 20240424205414.png",
+    "C++/Screenshots/Pasted image 20240424205617 1.png",
+    "C++/Screenshots/Pasted image 20240424205413.png",
+    "C++/Screenshots/Pasted image 20240424205413 1.png"
+  ]
+}
