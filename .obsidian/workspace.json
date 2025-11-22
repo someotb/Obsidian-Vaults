@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSMS/Модели распространения радиосигналов PL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Модели распространения радиосигналов PL"
-            }
-          },
-          {
-            "id": "0294bd68fb16b860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Git/Commits/Conventional commits guide.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "Conventional commits guide"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,31 +183,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0294bd68fb16b860",
+  "active": "e483329992ea7e28",
   "lastOpenFiles": [
+    "RTS/Семафор.md",
+    "OSMS/Модели распространения радиосигналов PL.md",
+    "README.md",
+    "Untitled.canvas",
+    "RTS/epoll, poll, ppoll.md",
     "RTS/Ожидание с таймаутами и обработка сигналов в Linux.md",
+    "RTS/Mutex.md",
+    "RTS/Aтомарность.md",
+    "OSMS/Модель Окумура-Хата и ее модификация COST231.md",
+    "OSMS/Макросота.md",
+    "OSMS/LTE.md",
+    "OSMS/dB, dBm, dBi.md",
+    "С/Этапы компиляции.md",
+    "С/Циклы for, while.md",
+    "С/Преобразовние типов.md",
+    "С/Переполнение.md",
     "Git/Commits/Conventional commits guide.md",
     "Git/Commits/Untitled.md",
     "Git/Commits",
     "Git",
-    "RTS/Семафор.md",
-    "RTS/Mutex.md",
-    "RTS/Aтомарность.md",
-    "С/Циклы for, while.md",
-    "С/Преобразовние типов.md",
     "Преобразование типов.md",
-    "С/Этапы компиляции.md",
-    "OSMS/Модель Окумура-Хата и ее модификация COST231.md",
-    "OSMS/Модели распространения радиосигналов PL.md",
-    "OSMS/Макросота.md",
     "OSMS/Корреляция.md",
     "OSMS/Hz(Герц).md",
-    "OSMS/dB, dBm, dBi.md",
     "беззнаковой.md",
     "Преобразование.md",
-    "С/Переполнение.md",
     "С",
-    "README.md",
     "MathDSP/Прямоугольный непереодический импульс.md",
     "RTS",
     "OSMS/assets/PL_indoor_UMiNLOS_FSMP.png",
@@ -230,14 +218,10 @@
     "MathDSP/assets",
     "MathDSP/Свойство ортогональности сигналов.md",
     "OSMS/Преобразование Фурье.md",
-    "Visual Programming/Лямбда функия.md",
     "MathDSP",
-    "Visual Programming/Callback.md",
-    "Visual Programming/Android Client Server.md",
     "Visual Programming",
     "OSMS/assets",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "OSMS",
     "M/M",
     "C++/Screenshots/Pasted image 20240424205618.png",
