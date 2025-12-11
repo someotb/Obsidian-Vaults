@@ -13,10 +13,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "OSMS/Lectures/ОСМС Лекция 1..md"
+                "file": "OSMS/Lectures/Lectures_drow_2.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ОСМС Лекция 1."
+              "title": "Lectures_drow_2"
             }
           }
         ]
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 379.5
   },
   "right": {
     "id": "404e2b808b6c7ff2",
@@ -183,22 +183,22 @@
   },
   "active": "e483329992ea7e28",
   "lastOpenFiles": [
-    "ОСМС Лекция 2..md",
-    "OSMS/Lectures/ОСМС Лекция 9..md",
-    "OSMS/Lectures/ОСМС Лекция 8..md",
-    "OSMS/Lectures/ОСМС Лекция 7..md",
-    "OSMS/Lectures/ОСМС Лекция 6..md",
-    "OSMS/Lectures/ОСМС Лекция 5..md",
-    "OSMS/Lectures/ОСМС Лекция 4..md",
-    "OSMS/Lectures/ОСМС Лекция 3..md",
-    "OSMS/Lectures/ОСМС Лекция 2..md",
-    "OSMS/Lectures/ОСМС Лекция 1..md",
-    "OSMS/Типы сот.md",
-    "OSMS/Lectures/Лекция 2. Базовая станция. Сота. Дуплексирование. Множественный доступ. Архитектура сотовой сети..md",
-    "OSMS/Lectures/Лекция 3. Система цифровой связи. Приемопередатчики. Антенны. Диаграмма направленности, КНД и КУ.md",
+    "OSMS/Lectures/Лекция 2. Базовая станция. Сота. Дуплексирование. Множественный доступ. Архитектура сотовой сети.md",
+    "OSMS/Lectures/Lectures_drow_2.md",
     "OSMS/Lectures/Лекция 1. Введение. Радиосигналы. Эволюция мобильных сетей.md",
-    "OSMS/Lectures/Децибелы (db, dbi, dbm) ОСМС.md",
+    "OSMS/Lectures/Lectures_drow_9.md",
+    "OSMS/Lectures/Lectures_drow_8.md",
+    "OSMS/Lectures/Lectures_drow_7.md",
+    "OSMS/Lectures/Lectures_drow_6.md",
+    "OSMS/Lectures/Lectures_drow_5.md",
+    "OSMS/Lectures/Lectures_drow_4.md",
+    "OSMS/Lectures/Lectures_drow_3.md",
+    "OSMS/Lectures/Lectures_drow_1.md",
     "Excalidraw/Drawing 2025-12-10 23.37.22.excalidraw.md",
+    "ОСМС Лекция 2..md",
+    "OSMS/Типы сот.md",
+    "OSMS/Lectures/Лекция 3. Система цифровой связи. Приемопередатчики. Антенны. Диаграмма направленности, КНД и КУ.md",
+    "OSMS/Lectures/Децибелы (db, dbi, dbm) ОСМС.md",
     "OSMS/Lectures/Лекция 9. Мобильность в состоянии IDLE. Cell selection и Re-selection.md",
     "OSMS/Lectures/Лекция 8. Мобильносnь в состоянии CONNECTED. Хэндовер. Состояния UE. IDLE. CONNECTED.md",
     "OSMS/Lectures/Лекция 7. Регистрация в сети. Call Setup. Пейджинг. Обновление местоположения.md",
