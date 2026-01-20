@@ -15,7 +15,11 @@ val value = obj?.property ?: defaultValue
 val nonNullValue = nullableValue!!
 ```
 
-## Различие между CellInfoLte
+ваыфвфывфы
+выфвфнырпв
+ырвгарвы
+аирвыиаршызв
+аивыграиывшраизшыв## Различие между CellInfoLte
 - `android.telephony.CellInfoLte` — встроенный класс Android API для информации о LTE-ячейках.
 - `com.example.mycal.model.CellInfoLte` — ваша модель данных для сериализации и передачи на сервер.
 
